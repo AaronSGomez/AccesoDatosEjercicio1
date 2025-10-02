@@ -1,0 +1,3 @@
+1;Ana;ana@correo.com;1200.0
+2;Pepe;pepe@correo.com;1560.0
+3;Roberto;roberto@correo.com;1700.0
